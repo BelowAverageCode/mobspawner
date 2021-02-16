@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OIO",
+        "I I",
+        "OIO"
+    ],
+    "key": {
+        "O": {
+            "item": "obsidian"
+        },
+        "I":{
+            "item": "iron_bars"
+        }
+    },
+    "result": {
+        "item": "spawner"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "M":
+        {
+            "item": "iron_nugget"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "silverfish_spawn_egg"
+    }
+}

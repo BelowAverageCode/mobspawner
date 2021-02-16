@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "M":
+        {
+            "item": "magma_cream"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "magma_cube_spawn_egg"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "L":{"item": "rotten_flesh"},
+        "M":
+        {
+            "item": "emerald"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "zombie_villager_spawn_egg"
+    }
+}

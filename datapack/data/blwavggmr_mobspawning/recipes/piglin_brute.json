@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "A":
+        {
+            "item": "gold_nugget"
+        },
+        "L":
+        {
+            "item": "leather"
+        },
+        "M":
+        {
+            "item": "porkchop"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "piglin_brute_spawn_egg"
+    }
+}
