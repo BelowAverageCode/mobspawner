@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "L":
+        {
+            "item": "potion"
+        },        
+        "M":
+        {
+            "item": "lapis_lazuli"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "evoker_spawn_egg"
+    }
+}

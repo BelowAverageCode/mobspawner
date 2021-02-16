@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "A":
+        {
+            "item": "saddle"
+        },
+        "L":
+        {
+            "item": "leather"
+        },
+        "M":
+        {
+            "item": "obsidian"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "ravager_spawn_egg"
+    }
+}

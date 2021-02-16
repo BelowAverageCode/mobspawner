@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "L":{"item": "glass_bottle"},
+        "M":
+        {
+            "item": "gunpowder"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "witch_spawn_egg"
+    }
+}

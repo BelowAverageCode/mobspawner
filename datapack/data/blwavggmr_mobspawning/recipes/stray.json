@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "L":
+        {
+            "item": "bow"
+        },
+        "M":
+        {
+            "item": "bone"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "stray_spawn_egg"
+    }
+}

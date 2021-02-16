@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "L":
+        {
+            "item": "leather"
+        },
+        "M":
+        {
+            "item": "cooked_beef"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "cow_spawn_egg"
+    }
+}

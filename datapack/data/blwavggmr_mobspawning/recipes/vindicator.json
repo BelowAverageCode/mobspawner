@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "L":{"item": "iron_axe"},
+        "M":
+        {
+            "item": "emerald"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "vindicator_spawn_egg"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "L":
+        {
+            "item": "light_gray_wool"
+        },
+        "M":
+        {
+            "item": "leather"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "llama_spawn_egg"
+    }
+}

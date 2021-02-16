@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SLS"
+    ],
+    "key": {
+        "L":
+        {
+            "item": "sand"
+        },
+        "M":
+        {
+            "item": "rotten_flesh"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "husk_spawn_egg"
+    }
+}

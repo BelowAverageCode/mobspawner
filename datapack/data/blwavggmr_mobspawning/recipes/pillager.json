@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+
+        "L":
+        {
+            "item": "crossbow"
+        },
+        "M":
+        {
+            "item": "arrow"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "pillager_spawn_egg"
+    }
+}

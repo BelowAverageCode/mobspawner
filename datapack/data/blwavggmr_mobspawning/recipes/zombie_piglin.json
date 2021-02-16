@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "L":{"item": "porkchop"},
+        "M":
+        {
+            "item": "rotten_flesh"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "zombified_piglin_spawn_egg"
+    }
+}

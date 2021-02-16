@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "M":
+        {
+            "item": "tropical_fish"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "spider_spawn_egg"
+    }
+}

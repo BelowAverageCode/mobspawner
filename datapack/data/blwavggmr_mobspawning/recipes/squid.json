@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "M":
+        {
+            "item": "ink_sac"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "squid_spawn_egg"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MEM",
+        "SMS"
+    ],
+    "key": {
+        "M":
+        {
+            "item": "light_blue_wool"
+        },
+        "E":
+        {
+            "item": "egg"
+        },
+        "S":
+        {
+            "item": "soul_sand"
+        }
+    },
+    "result": {
+        "item": "sheep_spawn_egg"
+    }
+}
