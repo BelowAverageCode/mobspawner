@@ -1,15 +1,11 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "SLS",
+        "SMS",
         "MEM",
-        "SLS"
+        "SMS"
     ],
     "key": {
-        "L":
-        {
-            "item": "leather"
-        },
         "M":
         {
             "item": "gunpowder"

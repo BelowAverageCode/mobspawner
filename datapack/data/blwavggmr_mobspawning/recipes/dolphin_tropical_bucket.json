@@ -8,7 +8,7 @@
     "key": {
         "M":
         {
-            "item": "emerald"
+            "item": "tropical_fish_bucket"
         },
         "E":
         {
@@ -20,6 +20,7 @@
         }
     },
     "result": {
-        "item": "villager_spawn_egg"
-    }
+        "item": "dolphin_spawn_egg"
+    },
+    "group": "dolphin"
 }
