@@ -1,18 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "SLS",
+        "SMS",
         "MEM",
-        "SLS"
+        "SMS"
     ],
     "key": {
-        "L":
-        {
-            "item": "black_wool"
-        },
         "M":
         {
-            "item": "leather"
+            "item": "cooked_salmon"
         },
         "E":
         {
@@ -24,7 +20,7 @@
         }
     },
     "result": {
-        "item": "llama_spawn_egg"
+        "item": "salmon_spawn_egg"
     },
-    "group": "llama"
+    "group": "salmon"
 }

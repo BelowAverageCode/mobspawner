@@ -25,5 +25,6 @@
     },
     "result": {
         "item": "cat_spawn_egg"
-    }
+    },
+    "group": "cat"
 }

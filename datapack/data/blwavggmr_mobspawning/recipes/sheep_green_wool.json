@@ -21,5 +21,6 @@
     },
     "result": {
         "item": "sheep_spawn_egg"
-    }
+    },
+    "group": "sheep"
 }

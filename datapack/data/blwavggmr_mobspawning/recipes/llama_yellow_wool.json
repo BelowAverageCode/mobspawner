@@ -25,5 +25,6 @@
     },
     "result": {
         "item": "llama_spawn_egg"
-    }
+    },
+    "group": "llama"
 }

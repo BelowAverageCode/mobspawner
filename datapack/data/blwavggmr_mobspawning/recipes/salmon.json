@@ -21,5 +21,6 @@
     },
     "result": {
         "item": "salmon_spawn_egg"
-    }
+    },
+    "group": "salmon"
 }
